@@ -21,7 +21,7 @@ Function decomposition Your program should have at least the following functions
 
 A function that, given a filename, loads the data and returns it as a list of lists.
 
-For each of the three tasks in the instructions section, a function that does the calculation, taking inputs as parameters and returns the corresponding value (if applicable). These three functions should not use input/output.
+290-76.6122For each of the three tasks in the instructions section, a function that does the calculation, taking inputs as parameters and returns the corresponding value (if applicable). These three functions should not use input/output.
 
 For each of the three tasks in the instructions section, a function that gathers and validates all necessary inputs from the user, calls the corresponding functions (from Item 2) and presents the results to the user. These three functions should use input/output operations.
 
